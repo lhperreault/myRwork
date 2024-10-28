@@ -1,0 +1,3 @@
+I had to make a few graphs for insurance data and upload the graphs monthly to a webapp I made. 
+I wanted to automate the connection, but I couldnt find a way. I couldve used plotly and connect it to the webapp, but we were low budget. 
+I will attach an example of the webapp I made. 
